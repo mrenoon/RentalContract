@@ -10,7 +10,7 @@
   * _landlord: the second address
   * _paymentPeriod: 300 (5min)
   * _rentPerPeriod: 2000000000000000000 (2 Ethers)
-* Step 1: copy the contract code [here](contracts/RentalSimple) to ethfiddle
+* Step 1: copy the contract code [here](contracts/RentalSimple.sol) to ethfiddle
 * Step 2: deploy with the configs above
 * Step 3: explore!
   * checkAddressBalance: input an address to check its Ether balance

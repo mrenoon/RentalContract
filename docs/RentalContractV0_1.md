@@ -1,4 +1,4 @@
-### Rental Agreement Smart contract V0.5
+### Rental Agreement Smart contract V0.1
 
 1. Parameters of the agreement:
 
