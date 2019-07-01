@@ -1,4 +1,6 @@
-# Blockchain & Law workshop - Rental contract
+# Blockchain & Law workshop
+* This repository contains the materials for the [Computational Law + Blockchain Festival, Workshop 2](https://www.eventbrite.sg/e/blockchain-102-legal-and-enterprise-technical-dive-tickets-61377849801#)
+* [Link to the Keynote slides](https://github.com/mrenoon/RentalContract/blob/master/docs/BlockchainLaw.pdf)
 
 ### Online playground for contract development:
 * https://ethfiddle.com/
